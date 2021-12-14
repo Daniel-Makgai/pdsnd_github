@@ -58,10 +58,6 @@ def time_stats(df):
 
 
     # display the most common start hour
-    
-    #Changes for documentation branch
-    
-    # One more change for documentation branch
 
 
     print("\nThis took %s seconds." % (time.time() - start_time))
