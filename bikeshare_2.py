@@ -30,7 +30,7 @@ def get_filters():
     
     #changes to bikeshre
     
-    # bikeshare.py 
+    #bikeshare.py changes
     
     print('-'*40)
     return city, month, day
